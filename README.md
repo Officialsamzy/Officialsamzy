@@ -35,6 +35,6 @@ A personal portfolio showcasing my projects, skills, and blog posts. Built with 
 
 ## 📫 Contact
 
-- Email: ayokazeem60@gmail.com(mailto:ayokazeem60@gmail.com)
+- Email: ayokazeem60@gmail.com
 - Tiktok: (https://www.tiktok.com/@official_samzy01)
 - X: (https://x.com/Him____01?t=KqCXWHXiYSESFw34FgTqhA&s=09&mx=2)
